@@ -33,9 +33,7 @@ This project is a simple interactive web page featuring **falling apples** and a
 3. **Open `index.html` in your browser** to view the project:
    - You can double-click `index.html` or open it via a local web server like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VS Code.
 
-## 📸 Preview
-![Falling Apples Demo](https://via.placeholder.com/800x400?text=Demo+Image)  
-*(Replace with an actual screenshot of your project.)*
+
 
 ## 👇 How It Works
 1. **Apples appear and fall** from random positions at varying speeds.
